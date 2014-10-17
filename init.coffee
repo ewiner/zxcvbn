@@ -4,10 +4,7 @@ DICTIONARY_MATCHERS = [
 ]
 
 MATCHERS = DICTIONARY_MATCHERS.concat [
-  l33t_match,
-  digits_match, year_match, date_match,
-  repeat_match, sequence_match,
-  spatial_match
+  l33t_match
 ]
 
 GRAPHS =
